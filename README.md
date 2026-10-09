@@ -43,4 +43,5 @@ The extracted files are the contents of the `.omv` file, which is a zip archive.
 2. Download `sales.omv..omv` from this repository.
 3. Open it in jamovi (**File → Open**).
 
- 
+## Group members  
+Rukundo Frankline
