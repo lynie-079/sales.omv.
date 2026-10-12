@@ -46,8 +46,8 @@ The extracted files are the contents of the `.omv` file, which is a zip archive.
 ## Group members  
 Rukundo Frankline;
 Taliwe Jordan;
-Ashraf kagga;
-NKATA MARVIN ALBERT;
-NAHUMUZA FAITH;
+Ashraf kaggwa;
+nkata marvin albert;
+nahumuza faith
 
 
